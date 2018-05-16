@@ -1,0 +1,67 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+body{
+  background-color: #FCE883
+}
+#sarahsnav{
+  background-color:#D2691E;
+  width: 99.1%;
+  height: 40px;
+  margin: 5px auto;
+  position: sticky;
+}
+
+img{
+  width: 30%;
+  margin:0px 60px 0px 0px;
+  display: block;
+  float: right;
+  padding: 3px;
+  border: 7px double	#483C32
+
+}
+
+#pone{
+  width: 80%;
+  font-size: 25px;
+  margin-top: 15px;
+  margin-left: 300px;
+  margin-bottom: 9px;
+  font-family: cursive;
+  font-weight: bold;
+  padding: 3px;;
+}
+
+#paragraphs{
+  background-color: white;
+  width: 97%;
+  border: 7px double	#483C32;
+  height: 420px;
+  margin-left: 9px;
+}
+p{
+  margin: 25px auto;
+  color: inherit;
+  font-weight: bold;
+  text-align: left;
+  backface-visibility: visible;
+  width: 99%;
+}
+button {
+    background-color: brown;
+    width: 15%;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 0px auto;
+}
+button:hover {
+  background-color:#D2691E;
+}
