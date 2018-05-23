@@ -24,7 +24,7 @@
   width: 72%;
   border: 5px solid pink;
   border-radius: 9px;
-  top-margin:25px;
+  margin-top:75px;
   float: right;
 }
 ul#Cancerlogo li{
@@ -49,7 +49,7 @@ ul#contacting li{
     border: 5px solid pink;
     border-radius: 9px;
     background: white;
-    top-margin:75px;
+    margin-top:75px;
 }
 
 img{
@@ -90,5 +90,18 @@ input[type="radio"] {
   }
 }
 
+.smilepic {
+   /* The image used */
+   background-image: url("tail.jpg");
+
+   /* Full height */
+   height: 100%;
+
+
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
 
 Add CommentCollapse 
