@@ -1,0 +1,177 @@
+body {
+  background-color: red;
+}
+
+.heading {
+  border-style: outset;
+  border-color: coral;
+  border-width: 50px;
+  background-color: magenta;
+  padding: 50px;
+}
+
+.snakelink {
+  background-color: purple;
+  border-width: 7px;
+  border-color: green;
+  padding: 30px;
+  font-size: 200%;
+  text-align: center;
+}
+
+.personallink {
+  background-color: blue;
+  border-width: 7px;
+  border-color: green;
+  top-margin: 10px;
+  padding: 30px;
+  font-size: 200%;
+}
+a:hover {
+  background-color: purple;
+}
+
+a {
+  font-size: larger;
+  text-align: center;
+}
+
+a:visited {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  text-align: center;
+  width: 50%;
+  height: 50%;
+}
+
+.desription {
+  text-align: center;
+  border-width: 7px;
+  border-color: black;
+}
+
+div {
+  border-width: 7px;
+  text-align: center;
+}
+
+.heading {
+  font-size: larger;
+}
+
+.description {
+  border: solid blue;
+  background-color: green;
+  padding: 30px;
+  font-size: 200%;
+}
+
+#pythonimage {
+  border-style: solid;
+  border-color: red;
+  border-size: 4px;
+  width: 400px;
+  margin: 40px auto;
+  padding: 5px;
+  float: ;
+}
+
+#personalimage {
+  border-style: solid;
+  border-color: red;
+  width: 400px;
+  margin: 40px auto;
+  padding: 5px;
+}
+
+.breedinglinkbutton {
+  width: 100%;
+  background-color: red;
+  text-align: center;
+  padding-top: 0px;
+  position: fixed;
+  top: 30px;
+  border-color: gray;
+  border-style: inset;
+  overflow: auto;
+}
+.photogallery {
+  border: solid black;
+  padding: 50px;
+  background-color: #edf731;
+  overflow: auto;
+}
+
+.stockbike {
+  float: left;
+  width: 50%;
+}
+.nicebike {
+  float: right;
+  width: 50%;
+}
+.sunsetbp {
+  width: 50%;
+  float: left;
+}
+.fakebp {
+  float: right;
+  width: 50%;
+}
+
+.stormtrooper {
+  width: 50%;
+  float: left;
+}
+.purplebp {
+  width: 50%;
+  float: right;
+}
+.container {
+  border: solid blue;
+  width: 100%;
+}
+@media only screen and (max-width: 800px) {
+  .stockbike {
+    width: 100%;
+    float: center;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .nicebike {
+    width: 100%;
+    float: center;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .sunsetbp {
+    width: 100%;
+    float: center;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .fakebp {
+    width: 100%;
+    float: center;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .stormtrooper {
+    width: 100%;
+    float: center;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .purplebp {
+    width: 100%;
+    float: center;
+  }
+}

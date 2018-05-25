@@ -1,6 +1,6 @@
 body {
    /* The image used */
-   background-image: url("http://d3nxyjdfmsp653.cloudfront.net/content/wp-content/uploads/2016/07/19040140/Featured-Image.png");
+   background-image: url("https://cdn.shopify.com/s/files/1/0249/7506/products/coins_large.jpg?v=1398634962");
 
    /* Full height */
    height: 100%;
@@ -16,12 +16,4 @@ body {
 body, html{
   height:100%;
   margin: 0;
-}
-
-.dbetpic{
-  float:right;
-  width:75%;
-  margin: 50px;
-  border-color: red 1px;
-  padding:2px;
 }
