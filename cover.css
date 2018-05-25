@@ -1,0 +1,19 @@
+body {
+   /* The image used */
+   background-image: url("https://cdn.shopify.com/s/files/1/0249/7506/products/coins_large.jpg?v=1398634962");
+
+   /* Full height */
+   height: 100%;
+
+
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+body, html{
+  height:100%;
+  margin: 0;
+}
