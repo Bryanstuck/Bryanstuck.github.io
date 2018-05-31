@@ -20,9 +20,18 @@ body, html{
 
 .description{
   color:red;
+  border:2px red;
+  text-align:center;
+}
+
+.whydbet{
+  border:2px red;
+  margin-left: 325px;
 }
 
 .buydbetpic{
   width:20%;
   height:20%;
+  border:2px red;
+  margin-left: 275px;
 }
