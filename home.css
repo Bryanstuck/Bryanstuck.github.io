@@ -33,3 +33,9 @@ body{
 75% {transform: rotateX(135deg) rotateY(135deg) rotateZ(135deg);}
 100% {transform: rotateX(180deg) rotateY(180deg) rotateZ(180deg);}
 }
+
+.background{
+  background-image: url("union.JPEG");
+  width: 100%;
+  height: 100%;
+}
